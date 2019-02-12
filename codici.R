@@ -33,6 +33,7 @@ dx<-ds %>%
             "sommaerr"=sum(ERR),
             "varerr"=var(ERR))%>% 
   mutate(y=ifelse(is.nan(y), 0, y))
+
   media<-mean(dx$y, na.rm=T)
   xul<-media+sd(dx$y, na.rm=T)
   xil<-0
