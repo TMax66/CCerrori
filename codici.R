@@ -34,6 +34,9 @@ dx<-ds %>%
             "varerr"=var(ERR))%>% 
   mutate(y=ifelse(is.nan(y), 0, y))
 
+
+
+
   media<-mean(dx$y, na.rm=T)
   xul<-media+sd(dx$y, na.rm=T)
   xil<-0
@@ -46,5 +49,10 @@ dx<-ds %>%
     ylab("n.errori")+xlab("settimana")
   
   
+  
+  
+  
+  ds[which(ds$lab=="BG"),] %>% 
+    filter(finalita=="input$finalita")
 
              

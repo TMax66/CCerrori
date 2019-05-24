@@ -1,0 +1,13 @@
+name: errori
+title: errori
+username:
+account: izslerbg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 725682
+bundleId: 1884139
+url: https://izslerbg.shinyapps.io/errori/
+when: 1550574743.6261
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|.httr-oauth|codici.R

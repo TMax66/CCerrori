@@ -1,0 +1,13 @@
+name: Ccerrori
+title: Ccerrori
+username:
+account: izslerbg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 725708
+bundleId: 1884185
+url: https://izslerbg.shinyapps.io/Ccerrori/
+when: 1550575958.31192
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|codici.R

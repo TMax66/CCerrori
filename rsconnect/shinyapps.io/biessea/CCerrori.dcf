@@ -1,0 +1,13 @@
+name: CCerrori
+title: CCerrori
+username:
+account: biessea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 725689
+bundleId: 1884149
+url: https://biessea.shinyapps.io/CCerrori/
+when: 1550575007.72245
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes|.httr-oauth|codici.R
