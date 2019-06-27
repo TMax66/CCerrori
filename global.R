@@ -1,6 +1,6 @@
 library(shiny)
 library(datasets)
-library(qicharts2)
+#library(qicharts2)
 library(ggplot2)
 library(plotly)
 library(googlesheets)
